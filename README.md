@@ -1,13 +1,16 @@
-## Running React on Repl.it
+# buildspace DNS starter project
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+### **Welcome 👋**
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+To get started with this course, clone this repo and follow these commands:
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+1. Run `npm install` at the root of your directory
+2. Run `npm run start` to start the project
+3. Start coding!
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+### What is the `.vscode` Folder?
+If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+
+### **Questions?**
+Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/) and link your Discord account so you can get access to helpful channels teaching assistants, and your instructor!
